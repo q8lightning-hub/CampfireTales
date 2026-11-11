@@ -1,0 +1,11 @@
+## Interface: 16001
+## Title: Campfire Tales
+## Notes: Offers a short Forever lore line to /say or /yell when you rest at a campfire.
+## Author: Balphagore
+## Version: 0.3
+## X-License: MIT
+## X-Wago-ID: BKpE7rGE
+## SavedVariables: CampfireTalesDB
+
+Facts.lua
+CampfireTales.lua

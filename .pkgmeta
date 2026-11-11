@@ -1,0 +1,7 @@
+package-as: CampfireTales
+
+ignore:
+  - README.md
+  - CHANGELOG.md
+  - .gitignore
+  - .pkgmeta
